@@ -41,7 +41,5 @@
     "reactjs",
     "components"
   ],
-  "dependencies": {
-    "lodash": "^4.6.1"
-  }
+  "dependencies": {}
 }
